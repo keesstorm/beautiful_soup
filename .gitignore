@@ -1,0 +1,5 @@
+*.csv
+*.dat
+*.jpg
+.DS_store
+results/
