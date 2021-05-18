@@ -4,4 +4,5 @@
 - Tomato soup (grandpa's specialty)
 - Borscht
 - Gazpacho
+- mushroom soup
 
