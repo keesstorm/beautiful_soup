@@ -1,3 +1,5 @@
+Hi Barbara, thanks for the lesson! Attempting to generate a pull request. I first forked your repository, then cloned it to my local machine, edited there and pushed the changes to my fork of your repo. Is that the proper work flow?
+
 # Beautiful soup
 
 ## Ingredients
